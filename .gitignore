@@ -1,2 +1,5 @@
 venv/
 public_data/
+notebooks/.ipynb_checkpoints/
+/outputs
+glove.6B.300d.txt
